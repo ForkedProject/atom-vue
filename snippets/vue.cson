@@ -8,16 +8,16 @@
 
       <script>
       export default {
-        props: {},
-        data() {
-          return {
-          };
-        },
-        components: {},
-        computed: {},
-        methods: {},
-        attached: function() {},
-        ready: function() {},
+          props: {},
+          data() {
+              return {
+              };
+          },
+          components: {},
+          computed: {},
+          methods: {},
+          attached: function() {},
+          ready: function() {},
       };
       </script>
 
