@@ -8,13 +8,15 @@
 
       <script>
       export default {
-        data () {
-          return {}
+        components: {},
+        props: {},
+        data: function() {
+          return {
+          };
         },
         computed: {},
-        mounted () {},
         methods: {},
-        components: {}
+        mounted: function() {},
       }
       </script>
 
