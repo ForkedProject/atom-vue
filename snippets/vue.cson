@@ -8,17 +8,16 @@
 
       <script>
       export default {
-          props: {},
-          data() {
-              return {
-              };
-          },
-          components: {},
-          computed: {},
-          methods: {},
-          attached: function() {},
-          ready: function() {},
-      };
+        components: {},
+        props: {},
+        data: function() {
+          return {
+          };
+        },
+        computed: {},
+        methods: {},
+        mounted: function() {},
+      }
       </script>
 
       <style lang="${2:css}">
